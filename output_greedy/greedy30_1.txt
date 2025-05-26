@@ -1,0 +1,84 @@
+=== Results for h30d10.csv ===
+
+-- k = 2 (luôn dùng 2 xe) --
+Total distance      = 1087.59
+Vehicle total idle  = 283.66
+Customer total wait = 13878.90
+  Xe1: route=[0, 14, 7, 16, 21, 22, 15, 28, 30, 26, 24, 29, 27, 9, 10, 11, 17, 8, 20, 4, 13, 3, 0], dist=713.16
+  Xe2: route=[0, 12, 25, 23, 1, 5, 18, 6, 2, 19, 0], dist=374.44
+
+-- k = 3 (luôn dùng 3 xe) --
+Total distance      = 1087.59
+Vehicle total idle  = 283.66
+Customer total wait = 13878.90
+  Xe1: route=[0, 14, 7, 16, 21, 22, 15, 28, 30, 26, 24, 29, 27, 9, 10, 11, 17, 8, 20, 4, 13, 3, 0], dist=713.16
+  Xe2: route=[0, 12, 25, 23, 1, 5, 18, 6, 2, 19, 0], dist=374.44
+  Xe3: route=[0], dist=0.00
+
+-- k = 4 (luôn dùng 4 xe) --
+Total distance      = 1087.59
+Vehicle total idle  = 283.66
+Customer total wait = 13878.90
+  Xe1: route=[0, 14, 7, 16, 21, 22, 15, 28, 30, 26, 24, 29, 27, 9, 10, 11, 17, 8, 20, 4, 13, 3, 0], dist=713.16
+  Xe2: route=[0, 12, 25, 23, 1, 5, 18, 6, 2, 19, 0], dist=374.44
+  Xe3: route=[0], dist=0.00
+  Xe4: route=[0], dist=0.00
+
+==================================================
+
+=== Results for h30d15.csv ===
+
+-- k = 2 (luôn dùng 2 xe) --
+Total distance      = 1212.14
+Vehicle total idle  = 155.41
+Customer total wait = 13405.64
+  Xe1: route=[0, 14, 7, 16, 17, 15, 23, 28, 21, 26, 24, 22, 29, 30, 9, 10, 11, 0], dist=710.11
+  Xe2: route=[0, 12, 20, 27, 25, 19, 18, 8, 13, 4, 3, 1, 5, 6, 2, 0], dist=502.03
+
+-- k = 3 (luôn dùng 3 xe) --
+Total distance      = 1212.14
+Vehicle total idle  = 155.41
+Customer total wait = 13405.64
+  Xe1: route=[0, 14, 7, 16, 17, 15, 23, 28, 21, 26, 24, 22, 29, 30, 9, 10, 11, 0], dist=710.11
+  Xe2: route=[0, 12, 20, 27, 25, 19, 18, 8, 13, 4, 3, 1, 5, 6, 2, 0], dist=502.03
+  Xe3: route=[0], dist=0.00
+
+-- k = 4 (luôn dùng 4 xe) --
+Total distance      = 1212.14
+Vehicle total idle  = 155.41
+Customer total wait = 13405.64
+  Xe1: route=[0, 14, 7, 16, 17, 15, 23, 28, 21, 26, 24, 22, 29, 30, 9, 10, 11, 0], dist=710.11
+  Xe2: route=[0, 12, 20, 27, 25, 19, 18, 8, 13, 4, 3, 1, 5, 6, 2, 0], dist=502.03
+  Xe3: route=[0], dist=0.00
+  Xe4: route=[0], dist=0.00
+
+==================================================
+
+=== Results for h30d20.csv ===
+
+-- k = 2 (luôn dùng 2 xe) --
+Total distance      = 1013.14
+Vehicle total idle  = 232.02
+Customer total wait = 11225.25
+  Xe1: route=[0, 7, 11, 15, 28, 12, 29, 18, 23, 30, 26, 16, 21, 19, 17, 24, 25, 9, 10, 0], dist=711.67
+  Xe2: route=[0, 8, 22, 27, 20, 14, 13, 4, 3, 1, 5, 6, 2, 0], dist=301.48
+
+-- k = 3 (luôn dùng 3 xe) --
+Total distance      = 1013.14
+Vehicle total idle  = 232.02
+Customer total wait = 11225.25
+  Xe1: route=[0, 7, 11, 15, 28, 12, 29, 18, 23, 30, 26, 16, 21, 19, 17, 24, 25, 9, 10, 0], dist=711.67
+  Xe2: route=[0, 8, 22, 27, 20, 14, 13, 4, 3, 1, 5, 6, 2, 0], dist=301.48
+  Xe3: route=[0], dist=0.00
+
+-- k = 4 (luôn dùng 4 xe) --
+Total distance      = 1013.14
+Vehicle total idle  = 232.02
+Customer total wait = 11225.25
+  Xe1: route=[0, 7, 11, 15, 28, 12, 29, 18, 23, 30, 26, 16, 21, 19, 17, 24, 25, 9, 10, 0], dist=711.67
+  Xe2: route=[0, 8, 22, 27, 20, 14, 13, 4, 3, 1, 5, 6, 2, 0], dist=301.48
+  Xe3: route=[0], dist=0.00
+  Xe4: route=[0], dist=0.00
+
+==================================================
+
